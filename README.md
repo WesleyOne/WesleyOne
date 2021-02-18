@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi Bro. 👋
 
-<!--
-**WesleyOne/WesleyOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![公众号](https://raw.githubusercontent.com/WesleyOne/wesleyone.github.io/master/docs/assert/images/qrcode.png)
 
-Here are some ideas to get you started:
+### Code Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![WesleyOne's github stats](https://github-readme-stats.vercel.app/api?username=WesleyOne&show_icons=true&theme=dracula)
+
+### Social
+- 📮：wesleyone666@163.com
+- 👻：[http://wesleyone.github.io/](http://wesleyone.github.io/) 
+
+### Others
+- [Gitee](https://gitee.com/wesleyOne)
+- [web-meeting ![](https://gitee.com/OpenVidu_CN/shixun-server/badge/star.svg?theme=dark)](https://gitee.com/OpenVidu_CN/shixun-server)
+- [vxchat-robot ![](https://gitee.com/wesleyOne/wxwobot/badge/star.svg?theme=dark)](https://gitee.com/wesleyOne/wxwobot)
